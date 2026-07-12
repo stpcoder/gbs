@@ -1,0 +1,9 @@
+[submodule "sk-supex"]
+	path = sk-supex
+	url = https://github.com/stpcoder/sk-supex.git
+[submodule "sk-supex-1"]
+	path = sk-supex-1
+	url = https://github.com/stpcoder/sk-supex-1.git
+[submodule "sk-supex-2"]
+	path = sk-supex-2
+	url = https://github.com/stpcoder/sk-supex-2.git
