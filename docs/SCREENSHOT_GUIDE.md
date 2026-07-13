@@ -25,10 +25,10 @@ GitHub README와 방송 사전 자료에 사용할 권장 화면 목록입니다
 | `07-run-intro.png` | SUPEX RUN | 인트로 | 타이틀과 시작 버튼 |
 | `08-run-stage.png` | SUPEX RUN | 게임 | 단합 또는 적용 스테이지 진행 중 |
 | `09-run-result.png` | SUPEX RUN | 결과 | 종합 점수와 네 개별 점수 |
-| `10-real-intro.png` | SUPEX REAL | 인트로 | `그려본 내일을 현실로` 타이틀과 비교 화면 |
-| `11-real-reveal.png` | SUPEX REAL | 스케치 비교 | 같은 공간의 스케치와 실사가 절반씩 보이는 순간 |
-| `12-real-process.png` | SUPEX REAL | 완성 과정 | 적용 또는 실행 장면과 단계 설명 |
-| `13-real-finale.png` | SUPEX REAL | 피날레 | 사람들이 머무는 공간과 `SUPEX` 전체가 보이는 화면 |
+| `10-real-intro.png` | SUPEX를 현실로 | 인트로 | `SUPEX를 현실로` 타이틀과 닫힌 작은 스케치북 |
+| `11-real-reveal.png` | SUPEX를 현실로 | 스케치북 | 왼쪽 스케치와 오른쪽 무대 문제 사진이 함께 열린 순간 |
+| `12-real-process.png` | SUPEX를 현실로 | 해결 과정 | 실제 시험 또는 최종 고정 장면과 검정 캡션 |
+| `13-real-finale.png` | SUPEX를 현실로 | 피날레 | 같은 무대에서 시작한 방송과 `SUPEX` 전체가 보이는 화면 |
 
 ## 선택 화면 6장
 
@@ -50,4 +50,4 @@ GitHub README와 방송 사전 자료에 사용할 권장 화면 목록입니다
 
 ## 현재 포함된 이미지
 
-`docs/images/`에는 네 제품의 최신 대표 비주얼을 선별해 두었습니다. SUPEX REAL 원본 장면은 `sk-supex-3/public/assets/supex-real/`에 있습니다. UI 캡처 파일은 위 이름으로 추가하면 README 이미지와 쉽게 교체할 수 있습니다.
+`docs/images/`에는 네 제품의 최신 대표 비주얼을 선별해 두었습니다. SUPEX를 현실로 원본 장면과 생성 매니페스트는 `sk-supex-3/public/assets/supex-book/`에 있습니다. UI 캡처 파일은 위 이름으로 추가하면 README 이미지와 쉽게 교체할 수 있습니다.
