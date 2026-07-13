@@ -25,10 +25,10 @@ GitHub README와 방송 사전 자료에 사용할 권장 화면 목록입니다
 | `07-run-intro.png` | SUPEX RUN | 인트로 | 타이틀과 시작 버튼 |
 | `08-run-stage.png` | SUPEX RUN | 게임 | 단합 또는 적용 스테이지 진행 중 |
 | `09-run-result.png` | SUPEX RUN | 결과 | 종합 점수와 네 개별 점수 |
-| `10-real-intro.png` | SUPEX REAL | 인트로 | 스케치와 `생각을 현실로` 타이틀 |
-| `11-real-reveal.png` | SUPEX REAL | 스케치 공개 | 스케치 사이로 실제 러닝화가 드러난 순간 |
+| `10-real-intro.png` | SUPEX REAL | 인트로 | `그려본 내일을 현실로` 타이틀과 비교 화면 |
+| `11-real-reveal.png` | SUPEX REAL | 스케치 비교 | 같은 공간의 스케치와 실사가 절반씩 보이는 순간 |
 | `12-real-process.png` | SUPEX REAL | 완성 과정 | 적용 또는 실행 장면과 단계 설명 |
-| `13-real-finale.png` | SUPEX REAL | 피날레 | 완성된 제품과 `SUPEX` 전체가 보이는 화면 |
+| `13-real-finale.png` | SUPEX REAL | 피날레 | 사람들이 머무는 공간과 `SUPEX` 전체가 보이는 화면 |
 
 ## 선택 화면 6장
 
