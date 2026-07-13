@@ -25,10 +25,10 @@ GitHub README와 방송 사전 자료에 사용할 권장 화면 목록입니다
 | `07-run-intro.png` | SUPEX RUN | 인트로 | 타이틀과 시작 버튼 |
 | `08-run-stage.png` | SUPEX RUN | 게임 | 단합 또는 적용 스테이지 진행 중 |
 | `09-run-result.png` | SUPEX RUN | 결과 | 종합 점수와 네 개별 점수 |
-| `10-real-intro.png` | SUPEX를 현실로 | 인트로 | `SUPEX를 현실로` 타이틀과 닫힌 작은 스케치북 |
-| `11-real-reveal.png` | SUPEX를 현실로 | 스케치북 | 왼쪽 스케치와 오른쪽 무대 문제 사진이 함께 열린 순간 |
-| `12-real-process.png` | SUPEX를 현실로 | 해결 과정 | 실제 시험 또는 최종 고정 장면과 검정 캡션 |
-| `13-real-finale.png` | SUPEX를 현실로 | 피날레 | 같은 무대에서 시작한 방송과 `SUPEX` 전체가 보이는 화면 |
+| `10-real-intro.png` | SUPEX를 현실로 | 인트로 | `SUPEX를 현실로` 타이틀과 닫힌 극사실 실물 동화책 |
+| `11-real-reveal.png` | SUPEX를 현실로 | 동화책 | 책이 완전히 펼쳐져 스케치와 촬영 직전 문제 장면이 함께 보이는 순간 |
+| `12-real-process.png` | SUPEX를 현실로 | 해결 과정 | 공동 조립, 실제 동선 시험, 즉시 수정 가운데 한 장면과 검정 캡션 |
+| `13-real-finale.png` | SUPEX를 현실로 | 피날레 | 방송 시작 장면, 끝까지 채워진 `SUPEX`, `따로 또 같이, 우리는 SK입니다.`가 보이는 화면 |
 
 ## 선택 화면 6장
 
