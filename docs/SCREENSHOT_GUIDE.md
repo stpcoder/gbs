@@ -34,7 +34,7 @@ GitHub README와 방송 사전 자료에 사용할 권장 화면 목록입니다
 
 | 파일명 | 내용 |
 | --- | --- |
-| `14-type-combination.png` | 네 선택 장면과 SUPEX 글자 채움 |
+| `14-type-combination.png` | 일곱 선택 장면과 SUPEX 글자 채움 |
 | `15-type-map.png` | 12가지 다른 성향 보기 |
 | `16-license-loading.png` | 네 가지 빛 각인 애니메이션 |
 | `17-license-color.png` | 라이선스 색상 비교 |
