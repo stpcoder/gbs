@@ -23,7 +23,7 @@ GitHub README와 방송 사전 자료에 사용할 권장 화면 목록입니다
 | `05-score-result.png` | SUPEX LICENSE | 점수 결과 | 네 원형 점수와 대표 강점 |
 | `06-license.png` | SUPEX LICENSE | 최종 라이선스 | 레인보우 홀로그램과 카드 전체 |
 | `07-run-intro.png` | SUPEX RUN | 인트로 | 타이틀과 시작 버튼 |
-| `08-run-stage.png` | SUPEX RUN | 게임 | 단합 또는 적용 스테이지 진행 중 |
+| `08-run-stage.png` | SUPEX RUN | 게임 | 단합 또는 적응 스테이지 진행 중 |
 | `09-run-result.png` | SUPEX RUN | 결과 | 종합 점수와 네 개별 점수 |
 | `10-real-intro.png` | SUPEX를 현실로 | 인트로 | `SUPEX를 현실로` 타이틀과 닫힌 극사실 실물 동화책 |
 | `11-real-reveal.png` | SUPEX를 현실로 | 동화책 | 책이 완전히 펼쳐져 스케치와 촬영 직전 문제 장면이 함께 보이는 순간 |
